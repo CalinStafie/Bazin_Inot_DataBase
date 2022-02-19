@@ -1,6 +1,6 @@
 # Bazin_Inot_DataBase
 
-Am generat pe baza de date al unui bazin de inot care are inclus si un magazin de articole sportive pentru inot.
+Am generat baza de date al unui bazin de inot care are inclus si un magazin de articole sportive pentru inot.
 Proiectul rezolva urmatoarele cerinte:
 
 ```
