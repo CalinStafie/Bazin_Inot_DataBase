@@ -1,6 +1,6 @@
 # Bazin_Inot_DataBase
 
-Am generat baza de date al unui bazin de inot care are inclus si un magazin de articole sportive pentru inot.
+Am generat baza de date al unui bazin de inot care are inclus si un magazin de articole sportive pentru inot folosind PL/SQL.
 Proiectul rezolva urmatoarele cerinte:
 
 ```
